@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"               : "admob",
+    "AdNetwork"               : "unity",
     
     "IntervalClick"           : 2,
     
